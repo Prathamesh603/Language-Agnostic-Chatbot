@@ -6,4 +6,6 @@ langchain-community
 faiss-cpu 
 sentence-transformers
 pypdf
+numpy
+tqdm
 

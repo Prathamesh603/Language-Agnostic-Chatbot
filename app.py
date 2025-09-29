@@ -4,7 +4,7 @@ from typing import List
 
 import streamlit as st
 from dotenv import load_dotenv
-from groq import Groq
+from groq import Groq 
 
 from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
